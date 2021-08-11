@@ -10,4 +10,4 @@ problem6: function(data) {
     }
     return JSON.stringify(carMake);
 }
-}
+};

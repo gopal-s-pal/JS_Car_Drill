@@ -8,6 +8,6 @@ module.exports = {
                 return "Car " + data[i].id + " is a " + data[i].car_year+" "+ data[i].car_make+ " "+data[i].car_model;
             } 
         }
-        return []
+        return [];
     }
-    }
+    };
