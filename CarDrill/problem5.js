@@ -1,7 +1,6 @@
 let cnt=0;
 module.exports = {
 problem5: function (carYears){
-
     for(let i=0; i < carYears.length; i++)
 {
     if(carYears[i] < 2000)
